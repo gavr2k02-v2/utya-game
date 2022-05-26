@@ -1,0 +1,16 @@
+export enum SpritesKeys {
+  CARD_6_BLACK = 'card-6-black',
+  CARD_6_RED = 'card-6-red',
+  CARD_6_BLUE = 'card-6-blue',
+  CARD_6_GREEN = 'card-6-green',
+  CARD_3_BLACK = 'card-3-black',
+  CARD_3_RED = 'card-3-red',
+  CARD_3_BLUE = 'card-3-blue',
+  CARD_3_GREEN = 'card-3-green',
+  CARD_1_BLACK = 'card-1-black',
+  CARD_1_RED = 'card-1-red',
+  CARD_1_BLUE = 'card-1-blue',
+  CARD_1_GREEN = 'card-1-green',
+  CARD_11 = 'card-11',
+  CARD_10 = 'card-10',
+}
